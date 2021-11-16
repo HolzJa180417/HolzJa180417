@@ -24,10 +24,3 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Jakob's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HolzJa180417&show_icons=true&hide_border=true" />
-
-</details>

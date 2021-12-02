@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning c#, flutter/dart, python and java
 - 👯 I’m looking to cretae awesome projects
-- 🥅 2021 Goals: Contribute my first handrwited digit recognizing neural network
+- 🥅 2021/22 Goals: create a security camera app in flutter with a colleague
 - ⚡ Fun fact: I love to use Linux
 
 <br />

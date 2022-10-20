@@ -11,6 +11,7 @@
 - Projects I've done:
   - ✅ creating my own dwm (dynamic window manager) configuration on my archpad
   - ✅ creating a security monitoring app in flutter with a python backend 
+  - ✅ setting up my home server 
 
 <br />
 
